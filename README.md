@@ -7,6 +7,7 @@ Write here what the project is about.
 ## 🎨 Layout
 
 Place the Layout Link.
+[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/files)
 
 ## 🎥 Implementation Video
 
