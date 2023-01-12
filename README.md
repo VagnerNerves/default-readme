@@ -5,15 +5,15 @@
 Write here what the project is about.
 🚧 Project under construction 🚧
 
+## 🎥 Implementation Video
+
+In the GitHub edit, drag the video that it already puts on github itself.
+
 ## 🎨 Layout
 
 Layout developed by [Name](https://www.instagram.com/urlName/)
 
 [![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/files)
-
-## 🎥 Implementation Video
-
-In the GitHub edit, drag the video that it already puts on github itself.
 
 ## 👏 Learning and more implementations
 
