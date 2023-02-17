@@ -29,6 +29,33 @@ Describe what you learned and implemented in the project.
 - [x] [Styled Components](https://styled-components.com/)
 - [x] Inform others used in the project
 
+## 📂 Folder Structure
+
+```plainText
+app
+.
+├── __tests__
+├── android                     # Native android files
+├── ios                         # Native ios files
+├── src                         # Source files
+│   ├── @types                  # Contains all global definitions of types and interfaces
+│   ├── assets                  # Contains Js bundles assets. e.g: icons, splash, images etc...
+│   ├── components              # Contains all global react components
+│   ├── context                 # All contexts
+│   ├── constants               # Constants files
+│   ├── hooks                   # Cstomized hooks
+│   ├── navigation
+│   ├── screens
+│   ├── services                # Contains external and api services
+│   ├── App                     # Aplication entry
+.
+.
+├── index                       # Bundle entry
+.
+.
+└── README.md
+```
+
 ## 🚀 Running the project
 
 ### Back-end
