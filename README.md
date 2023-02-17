@@ -21,10 +21,13 @@ Describe what you learned and implemented in the project.
 
 ## 💡 Technologies used
 
-- [x] Vite
-- [x] React
-- [x] React Query
-- [x] Axios
+- [x] [Vite](https://vitejs.dev/)
+- [x] [Expo](https://docs.expo.dev/)
+- [x] [React](https://reactjs.org/)
+- [x] [React Bative](https://reactnative.dev/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [Styled Components](https://styled-components.com/)
+- [x] Inform others used in the project
 
 ## 🚀 Running the project
 
