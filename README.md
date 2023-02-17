@@ -23,8 +23,8 @@ Describe what you learned and implemented in the project.
 
 - [x] [Vite](https://vitejs.dev/)
 - [x] [Expo](https://docs.expo.dev/)
-- [x] [React](https://reactjs.org/)
-- [x] [React Bative](https://reactnative.dev/)
+- [x] [React](https://reactjs.org/) ```version: "18.2.0"```
+- [x] [React Native](https://reactnative.dev/) ```version: "0.71.3"```
 - [x] [TypeScript](https://www.typescriptlang.org/)
 - [x] [Styled Components](https://styled-components.com/)
 - [x] Inform others used in the project
