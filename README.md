@@ -80,6 +80,42 @@ Start the server
   npm run start
 ```
 
+### Mobile
+
+Clone the project
+
+```bash
+  git clone https://link-para-o-projeto
+```
+
+Enter the project directory
+
+```bash
+  cd my-project
+```
+
+Install with dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npx expo start
+```
+
+- IOS:
+```bash
+  npx pod-install && npx react-native run-ios
+```
+
+- Android:
+```bash
+  npx react-native run-android
+```
+
 ## 📝 Routes
 
 [![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
