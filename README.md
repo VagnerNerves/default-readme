@@ -25,6 +25,7 @@
   - [Mobile](#mobile)
 - [Routes](-routes)
 - [License](#-license)
+- [Author](#-author)
 
 ## 🎥 Implementation Video
 
@@ -175,3 +176,26 @@ Start the server
 ## 🌎 License
 
 This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+
+## ✒ Author
+
+<p align="center">
+  <img width="200px" alt="Author Vagner Nerves" title="Author Vagner Nerves" src="./assets/VagnerNerves.svg" />
+
+  <h3 align="center">Vagner Nerves</h3>
+  
+  <p align="center">  
+    Made with love and hate 😅, get in touch!
+  </p>
+</p>  
+  
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnernervessantos/)](https://www.linkedin.com/in/vagnernervessantos/) 
+[![Gmail Badge](https://img.shields.io/badge/-vagnernervessantos@gmail.com-1f6feb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnernervessantos@gmail.com)](mailto:vagnernervessantos@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-1f6feb?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/VagnerNerves)](https://github.com/VagnerNerves)
+
+</div>  
+  
+ 
+
