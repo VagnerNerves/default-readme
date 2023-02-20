@@ -1,9 +1,30 @@
-<h1 align="center">
-  <img alt="Titulo do Projeto" title="Titulo do Projeto" src="https://github.com/vagnernerves/be-the-hero/blob/master/frontend/src/assets/bethehero_logo.png" />
-</h1>
 
-Write here what the project is about.
-🚧 Project under construction 🚧
+<p align="center">
+  <img width="200px" alt="Project Title Logo" title="Project Title Logo" src="logo.svg" />
+  
+  <h1 align="center">Project Title</h1>
+
+  <p align="center">
+    🔗 <a href="https://URLThisProject.com">https://URLThisProject.com</a> 🔗
+  </p>  
+  
+  Write here what the project is about.
+  🚧 Project under construction 🚧
+</p>
+
+## 🧭 Table of contents
+
+- [Implementation Video](#-implementation-video)
+- [Layout](#-layout)
+- [Learning and more Implementations](#-learning-and-more-implementations)
+- [Technologies Used](#-technologies-used)
+- [Folder Structure](#-folder-structure)
+- [Running the Project](#-running-the-project)
+  - [Back-end](#back-end)
+  - [Front-end Web](#front-end-web)
+  - [Mobile](#mobile)
+- [Routes](-routes)
+- [License](#-license)
 
 ## 🎥 Implementation Video
 
@@ -15,11 +36,11 @@ Layout developed by [Name](https://www.instagram.com/urlName/)
 
 [![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/files)
 
-## 👏 Learning and more implementations
+## 👏 Learning and more Implementations
 
 Describe what you learned and implemented in the project.
 
-## 💡 Technologies used
+## 💡 Technologies Used
 
 - [x] [Vite](https://vitejs.dev/)
 - [x] [Expo](https://docs.expo.dev/)
@@ -56,7 +77,7 @@ app
 └── README.md
 ```
 
-## 🚀 Running the project
+## 🚀 Running the Project
 
 ### Back-end
 
