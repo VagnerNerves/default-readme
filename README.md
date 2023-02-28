@@ -180,7 +180,7 @@ This project is under the MIT license. See the [LICENSE](https://choosealicense.
 ## ✒ Author
 
 <p align="center">
-  <img width="200px" alt="Author Vagner Nerves" title="Author Vagner Nerves" src="./assets/VagnerNerves.svg" />
+  <img width="200px" alt="Author Vagner Nerves" title="Author Vagner Nerves" src="https://github.com/VagnerNerves/default-readme/blob/main/assets/VagnerNerves.svg" />
 
   <h3 align="center">Vagner Nerves</h3>
   
